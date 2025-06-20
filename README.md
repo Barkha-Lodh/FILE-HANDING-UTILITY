@@ -18,7 +18,7 @@ A file handing utility is a program or module that enables users or software sys
 
 *OUTPUT*
 
-
+![Image](https://github.com/user-attachments/assets/1b721616-4d5a-474c-b820-3926479879f6)
 
 ![Image](https://github.com/user-attachments/assets/8bd2974d-6fd2-48f9-82e2-fdf014a84e15)
 
